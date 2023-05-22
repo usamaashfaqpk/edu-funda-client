@@ -1,0 +1,6 @@
+body {
+  margin: 0;
+}
+.uploadcare--widget__button_type_open {
+  display: none;
+}
